@@ -1,0 +1,5 @@
+package nwdafapi
+
+func Teste() {
+
+}
